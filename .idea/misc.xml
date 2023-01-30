@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/constellation/app/src/main/res/drawable/luck_button_icon.xml" value="0.1335" />
+        <entry key="..\:/AndroidStudioProjects/constellation/app/src/main/res/drawable/me_button_icon.xml" value="0.1335" />
+        <entry key="..\:/AndroidStudioProjects/constellation/app/src/main/res/drawable/partner_button_icon.xml" value="0.1335" />
+        <entry key="..\:/AndroidStudioProjects/constellation/app/src/main/res/drawable/partner_female_background.xml" value="0.1335" />
+        <entry key="..\:/AndroidStudioProjects/constellation/app/src/main/res/drawable/partner_male_background.xml" value="0.1335" />
+        <entry key="..\:/AndroidStudioProjects/constellation/app/src/main/res/drawable/partner_male_spinner_background.xml" value="0.1335" />
+        <entry key="..\:/AndroidStudioProjects/constellation/app/src/main/res/drawable/partner_prize_button_background.xml" value="0.1335" />
+        <entry key="..\:/AndroidStudioProjects/constellation/app/src/main/res/drawable/radio_button_text.xml" value="0.1335" />
+        <entry key="..\:/AndroidStudioProjects/constellation/app/src/main/res/drawable/star_analysis_summary_background.xml" value="0.1335" />
+        <entry key="..\:/AndroidStudioProjects/constellation/app/src/main/res/drawable/star_background.xml" value="0.1335" />
+        <entry key="..\:/AndroidStudioProjects/constellation/app/src/main/res/layout/activity_guide.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidStudioProjects/constellation/app/src/main/res/layout/activity_luck_analysis.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidStudioProjects/constellation/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidStudioProjects/constellation/app/src/main/res/layout/activity_partner_analysis.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidStudioProjects/constellation/app/src/main/res/layout/activity_splash.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidStudioProjects/constellation/app/src/main/res/layout/activity_star_analysis.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidStudioProjects/constellation/app/src/main/res/layout/dialog_me.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidStudioProjects/constellation/app/src/main/res/layout/fragment_luck.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidStudioProjects/constellation/app/src/main/res/layout/fragment_me.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidStudioProjects/constellation/app/src/main/res/layout/fragment_partner.xml" value="0.1187214611872146" />
+        <entry key="..\:/AndroidStudioProjects/constellation/app/src/main/res/layout/fragment_star.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidStudioProjects/constellation/app/src/main/res/layout/gvitem_luck.xml" value="0.1721311475409836" />
+        <entry key="..\:/AndroidStudioProjects/constellation/app/src/main/res/layout/gvitem_star.xml" value="0.2913625304136253" />
+        <entry key="..\:/AndroidStudioProjects/constellation/app/src/main/res/layout/layout_header.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidStudioProjects/constellation/app/src/main/res/layout/layout_star_analysis_footer.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidStudioProjects/constellation/app/src/main/res/layout/layout_title.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidStudioProjects/constellation/app/src/main/res/layout/lvitem_luck_analysis.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidStudioProjects/constellation/app/src/main/res/layout/lvitem_star_analysis.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidStudioProjects/constellation/app/src/main/res/layout/spitem_partner.xml" value="0.2047008547008547" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
